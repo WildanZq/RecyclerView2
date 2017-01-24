@@ -122,4 +122,16 @@
   <component name="RefactoringSettings">
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
   </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://github.com/WildanZq/RecyclerView2/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://github.com/WildanZq/RecyclerView2/" />
+      </list>
+    </option>
+  </component>
 </application>
